@@ -1,5 +1,5 @@
 
-# AWS Community Day 2021
+# go 웹서버 ECS+ECR 사용
 
 - ECS + ECR을 사용한 A-Z 까지 어플리케이션 개발하기
 - golang 을 기반으로하여 fargate 실습
